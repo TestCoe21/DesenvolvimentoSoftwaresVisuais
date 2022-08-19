@@ -1,0 +1,16 @@
+C:\Users\Aluno\Desktop\DesenvolvimentoSoftwaresVisuais\aula3\bin\Debug\net5.0\aula3.exe
+C:\Users\Aluno\Desktop\DesenvolvimentoSoftwaresVisuais\aula3\bin\Debug\net5.0\aula3.deps.json
+C:\Users\Aluno\Desktop\DesenvolvimentoSoftwaresVisuais\aula3\bin\Debug\net5.0\aula3.runtimeconfig.json
+C:\Users\Aluno\Desktop\DesenvolvimentoSoftwaresVisuais\aula3\bin\Debug\net5.0\aula3.runtimeconfig.dev.json
+C:\Users\Aluno\Desktop\DesenvolvimentoSoftwaresVisuais\aula3\bin\Debug\net5.0\aula3.dll
+C:\Users\Aluno\Desktop\DesenvolvimentoSoftwaresVisuais\aula3\bin\Debug\net5.0\ref\aula3.dll
+C:\Users\Aluno\Desktop\DesenvolvimentoSoftwaresVisuais\aula3\bin\Debug\net5.0\aula3.pdb
+C:\Users\Aluno\Desktop\DesenvolvimentoSoftwaresVisuais\aula3\obj\Debug\net5.0\aula3.csproj.AssemblyReference.cache
+C:\Users\Aluno\Desktop\DesenvolvimentoSoftwaresVisuais\aula3\obj\Debug\net5.0\aula3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\Desktop\DesenvolvimentoSoftwaresVisuais\aula3\obj\Debug\net5.0\aula3.AssemblyInfoInputs.cache
+C:\Users\Aluno\Desktop\DesenvolvimentoSoftwaresVisuais\aula3\obj\Debug\net5.0\aula3.AssemblyInfo.cs
+C:\Users\Aluno\Desktop\DesenvolvimentoSoftwaresVisuais\aula3\obj\Debug\net5.0\aula3.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\DesenvolvimentoSoftwaresVisuais\aula3\obj\Debug\net5.0\aula3.dll
+C:\Users\Aluno\Desktop\DesenvolvimentoSoftwaresVisuais\aula3\obj\Debug\net5.0\ref\aula3.dll
+C:\Users\Aluno\Desktop\DesenvolvimentoSoftwaresVisuais\aula3\obj\Debug\net5.0\aula3.pdb
+C:\Users\Aluno\Desktop\DesenvolvimentoSoftwaresVisuais\aula3\obj\Debug\net5.0\aula3.genruntimeconfig.cache
